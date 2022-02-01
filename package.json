@@ -4,7 +4,7 @@
   "description": "Tailwind CSS 3 plugin for using multiple instances of the same group (a/k/a parent) modifiers on the same page. Themable via the config file.",
   "main": "src/index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/johnnyicarus/tailwind-named-group-modifiers/issues"
   },
-  "homepage": "https://github.com/johnnyicarus/tailwind-named-group-modifiers#readme"
+  "homepage": "https://github.com/johnnyicarus/tailwind-named-group-modifiers#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
 }
