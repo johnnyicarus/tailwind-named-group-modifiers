@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-named-group-modifiers",
+  "version": "0.1.0",
+  "description": "Tailwind CSS 3 plugin for using multiple instances of the same group (a/k/a parent) modifiers on the same page. Themable via the config file.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnyicarus/tailwind-named-group-modifiers.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwindcss-plugin"
+  ],
+  "author": "Marin Aeschbach <marin.aeschbach@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnnyicarus/tailwind-named-group-modifiers/issues"
+  },
+  "homepage": "https://github.com/johnnyicarus/tailwind-named-group-modifiers#readme"
+}
