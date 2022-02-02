@@ -21,7 +21,16 @@
     "url": "https://github.com/johnnyicarus/tailwind-named-group-modifiers/issues"
   },
   "homepage": "https://github.com/johnnyicarus/tailwind-named-group-modifiers#readme",
+  "peerDependencies": {
+    "tailwindcss": ">=3.0.0"
+  },
   "devDependencies": {
-    "jest": "^27.4.7"
+    "autoprefixer": "^10.4.2",
+    "jest": "^27.4.7",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
