@@ -15,7 +15,7 @@
     "tailwindcss",
     "tailwindcss-plugin"
   ],
-  "author": "Marin Aeschbach <marin.aeschbach@gmail.com>",
+  "author": "Marin Aeschbach <mail@formwerdung.ch>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnnyicarus/tailwind-named-group-modifiers/issues"
